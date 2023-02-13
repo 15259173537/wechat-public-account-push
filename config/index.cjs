@@ -14,14 +14,14 @@ const USER_CONFIG = {
   APP_SECRET: '1ccfda75c9e3e36c0a932cbedfd74761',
 
   PROVINCE: ' ',
-  CITY: '福清市',
+  CITY: '平潭县',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '世界上最漂亮的林七七小仙女',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oZIu45htGZ5HPECg66amBXj3LJfQ',
+      id: 'oZIu45vv-UTdygfiyvvyul3GmWBs',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'TRmd1a65v3BRFmzRE-_5wx8wPHf2Io33V_UOuXG-lZk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -40,11 +40,11 @@ const USER_CONFIG = {
         },
       ],
     },
-    {
+   {
       // 想要发送的人的名字
       name: '世界上最漂亮的林七七小仙女',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oZIu45vv-UTdygfiyvvyul3GmWBs',
+      id: 'oZIu45htGZ5HPECg66amBXj3LJfQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'TRmd1a65v3BRFmzRE-_5wx8wPHf2Io33V_UOuXG-lZk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -73,7 +73,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oZIu45vv-UTdygfiyvvyul3GmWBs	',
+      id: 'oZIu45vv-UTdygfiyvvyul3GmWBs',
     }
   ],
 
