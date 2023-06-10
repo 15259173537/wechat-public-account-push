@@ -36,7 +36,7 @@ const USER_CONFIG = {
           type: '*生日', name: '林七七小仙女', year: '1998', date: '06-18',
         },
         {
-          type: '节日', name: '【06.24】', year: '2010', date: '06-24',
+          type: '节日', name: '06.24', year: '2010', date: '06-24',
         },
       ],
     },
@@ -46,7 +46,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oZIu45vv-UTdygfiyvvyul3GmWBs',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'Zn0QR4hbKbEsj3vZa0569V2EZyPmpBUwruxXbkVLfIM',
+      useTemplateId: 'na_n1BtQY4p6MzaPupnHe7iBRsJy8W2s-IbMRSnzloU',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-17',
       festivals: [
@@ -59,7 +59,7 @@ const USER_CONFIG = {
           type: '*生日', name: '林七七小仙女', year: '1998', date: '06-18',
         },
         {
-          type: '节日', name: '【06.24】', year: '2010', date: '06-24',
+          type: '节日', name: '06.24', year: '2010', date: '06-24',
         },
       ],
     },
