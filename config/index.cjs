@@ -52,11 +52,11 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*节日', name: '海星', year: '1997', date: '11-18',
+          type: '*生日', name: '海星', year: '1997', date: '11-18',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '*节日', name: '林七七小仙女', year: '1998', date: '06-18',
+          type: '*生日', name: '林七七小仙女', year: '1998', date: '06-18',
         },
         {
           type: '节日', name: '【06.24】', year: '2010', date: '06-24',
