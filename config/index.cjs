@@ -14,16 +14,16 @@ const USER_CONFIG = {
   APP_SECRET: '1ccfda75c9e3e36c0a932cbedfd74761',
 
   PROVINCE: ' ',
-  CITY: '平潭',
+  CITY: '平潭县',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '林七七',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oZIu45vv-UTdygfiyvvyul3GmWB',
+      id: ' ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '-aHTqtTDpK6gSklhLseXDYrUpkGUVdLKdXh_DK2G1DY',
+      useTemplateId: ' ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-17',
       festivals: [
@@ -44,7 +44,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '吴海星',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oZIu45htGZ5HPECg66amBXj3LJfQ',
+      id: 'oZIu45vv-UTdygfiyvvyul3GmWBs',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '3oYoVNPo3M8z8Gzgu7codGWOYWM6vSZKqY1CA4FAroY',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
